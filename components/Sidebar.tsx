@@ -6,6 +6,12 @@ function Sidebar() {
   const menuOption = (
     <>
       <NewDocumentButton></NewDocumentButton>
+
+      {/* my documet */}
+      {/* list */}
+
+      {/* shared with me */}
+      {/* list */}
     </>
   );
   return (
